@@ -1,1 +1,0 @@
-# MechAI-HealthCare-Facility-Analysis
